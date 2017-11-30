@@ -5,15 +5,14 @@ import store from './store/store'
 
 import axios from 'axios'
 
-import iView from 'iview'
-import 'iview/dist/styles/iview.css'
+import ElementUI from 'element-ui'
 
 
 Vue.config.debug = true
 Vue.config.productionTip = false
 Vue.prototype.$axios = axios
 
-Vue.use(iView)
+Vue.use(ElementUI)
 
 
 new Vue({
@@ -21,5 +20,7 @@ new Vue({
   router: router,
   store: store,
   template: '<App/>',
-  components: { App }
+  components: {
+    App
+  }
 })
