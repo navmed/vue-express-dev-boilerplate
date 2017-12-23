@@ -1,1 +1,1 @@
-## 此文件夹专门用于存放静态文件，如图片、配置文档
+## This folder is dedicated to storing static files, such as images and configuration files

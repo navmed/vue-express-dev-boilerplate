@@ -1,1 +1,1 @@
-## 此文件夹专门用于存放各种组件
+## This folder is dedicated to storing various components

@@ -1,1 +1,1 @@
-## 此文件夹专门用于存放Dao层文件
+## This folder is dedicated to storing Dao layer files

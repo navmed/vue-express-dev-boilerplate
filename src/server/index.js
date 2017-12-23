@@ -6,10 +6,10 @@ import cookieParser from 'cookie-parser'
 import bodyParser from 'body-parser'
 import webpack from 'webpack'
 
-// 引入history模块
+// Introduce the history module
 import history from 'connect-history-api-fallback'
 
-// 正式环境时，下面两个模块不需要引入
+// Formal(Prod) environment, the following two modules do not need to be introduced
 import webpackDevMiddleware from 'webpack-dev-middleware'
 import webpackHotMiddleware from 'webpack-hot-middleware'
 
@@ -21,7 +21,7 @@ const app = express()
 // app.set('views', path.join(__dirname, 'views'))
 // app.set('view engine', 'jade')
 
-// 引入history模式让浏览器支持
+// Introduce the history mode for browser support
 app.use(history())
 
 // uncomment after placing your favicon in /public

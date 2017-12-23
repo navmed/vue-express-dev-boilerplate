@@ -1,1 +1,1 @@
-## 此文件夹专门用于存放vue-router的配置文件
+## This folder is dedicated to vue-router configuration files

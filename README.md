@@ -1,14 +1,15 @@
-Vue + Express 前后端脚手架（基于~~iViewUI~~**ElementUI**）
+Vue + Express front and rear scaffolding (** ElementUI **)
 =========================================
 
-在原版本基础之上，修改了webpack的相关配置文件。使得项目可以运行build命令，编译vue相关代码。
-前端部分增加了vue全家桶（vue-router，vuex）以及~~iView~~**ElementUI**的关联
-后端express部分增加有history模式
-重新修改了文件夹结构
 
-fork源：[southerncross/vue-express-dev-boilerplate](https://github.com/southerncross/vue-express-dev-boilerplate)
+On the basis of the original version, modify the relevant configuration file webpack. Make the project can run build command, compile vue related code.
+The front part adds the vue-bucket (vue-router, vuex) and ~ iView ~~ ** ElementUI ** association
+Back part of the increase of the history part of the express mode
+Re-edit the folder structure
 
-## 关键词
+fork source：[southerncross/vue-express-dev-boilerplate](https://github.com/southerncross/vue-express-dev-boilerplate)
+
+## Key words
 
 - Vue (vue-router + vuex)
 - ~~iView~~
@@ -19,7 +20,7 @@ fork源：[southerncross/vue-express-dev-boilerplate](https://github.com/souther
 - Npm
 
 
-## 文件目录
+##  File Directory
 
 ```
 .
@@ -62,24 +63,24 @@ fork源：[southerncross/vue-express-dev-boilerplate](https://github.com/souther
      └── prod.env.js
 ```
 
-## 用法
+## Usage
 
-1. 安装依赖包
+1. Install Dependencies
 
    `npm install`
 
-2. 运行开发环境
+2. Run the development environment
 
    `npm run dev`
 
-3. build前端代码
+3. build the front end code
 
     `npm run build`
     
-    生成后的代码会在根目录的dist目录下。
-    此时可专门写一个生产环境启动express的脚本。
+    The generated code will be in the root directory of the dist directory.
+    At this point can be specifically written to start a production environment       express script.
 
-## 参考资料
+## Reference
 
 Some ideas are stolen from them, really appreciated.
 

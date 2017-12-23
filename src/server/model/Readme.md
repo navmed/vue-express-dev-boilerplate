@@ -1,1 +1,1 @@
-## 此文件夹专门用于存放Model层文件
+## This folder is dedicated to storing Model layer files

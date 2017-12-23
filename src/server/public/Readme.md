@@ -1,1 +1,1 @@
-## 此文件夹专门用于存放静态资源文件
+## This folder is dedicated to storing static resource files

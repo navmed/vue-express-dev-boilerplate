@@ -1,1 +1,1 @@
-## 此文件夹专门用于存放后台配置文件，如数据库的配置文件
+## This folder is dedicated to storing background configuration files, such as database configuration files
